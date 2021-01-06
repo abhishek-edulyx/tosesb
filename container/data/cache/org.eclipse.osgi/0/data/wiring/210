@@ -1,0 +1,16 @@
+osgi.wiring.package; (&(osgi.wiring.package=org.talend.esb.auxiliary.storage.rest.security)(&(version>=7.3.0)(!(version>=8.0.0))))
+257; version=7.3.1
+osgi.wiring.package; (&(osgi.wiring.package=org.talend.esb.auxiliary.storage.common)(&(version>=7.3.0)(!(version>=8.0.0))))
+256; version=7.3.1
+osgi.wiring.package; (&(osgi.wiring.package=org.talend.esb.auxiliary.storage.client.common)(&(version>=7.3.0)(!(version>=8.0.0))))
+255; version=7.3.1
+osgi.wiring.package; (&(osgi.wiring.package=javax.ws.rs.core)(&(version>=2.1.0)(!(version>=3.0.0))))
+151; version=2.1.0
+osgi.wiring.package; (&(osgi.wiring.package=javax.ws.rs)(&(version>=2.1.0)(!(version>=3.0.0))))
+151; version=2.1.0
+osgi.wiring.package; (&(osgi.wiring.package=org.apache.cxf.jaxrs.client)(&(version>=3.3.0)(!(version>=4.0.0))))
+65; version=3.3.4
+osgi.wiring.package; (&(osgi.wiring.package=org.talend.esb.auxiliary.storage.common.exception)(&(version>=7.3.0)(!(version>=8.0.0))))
+256; version=7.3.1
+osgi.wiring.package; (&(osgi.wiring.package=org.osgi.service.blueprint)(&(version>=1.0.0)(!(version>=2.0.0))))
+34; version=1.0.0

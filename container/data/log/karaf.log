@@ -1,0 +1,16 @@
+Jan 04, 2021 4:31:09 PM org.apache.karaf.main.Main launch
+INFO: Installing and starting initial bundles
+Jan 04, 2021 4:31:10 PM org.apache.karaf.main.Main launch
+INFO: All initial bundles installed and set to start
+Jan 04, 2021 4:31:10 PM org.apache.karaf.main.lock.SimpleFileLock lock
+INFO: Trying to lock C:\TOS_ESB-20200219_1130-V7.3.1\Runtime_ESBSE\container\lock
+Jan 04, 2021 4:31:10 PM org.apache.karaf.main.lock.SimpleFileLock lock
+INFO: Lock acquired
+Jan 04, 2021 4:31:10 PM org.apache.karaf.main.Main$KarafLockCallback lockAcquired
+INFO: Lock acquired. Setting startlevel to 100
+Jan 04, 2021 6:32:19 PM org.apache.karaf.main.lock.SimpleFileLock lock
+INFO: Trying to lock C:\TOS_ESB-20200219_1130-V7.3.1\Runtime_ESBSE\container\lock
+Jan 04, 2021 6:32:19 PM org.apache.karaf.main.lock.SimpleFileLock lock
+INFO: Lock acquired
+Jan 04, 2021 6:32:19 PM org.apache.karaf.main.Main$KarafLockCallback lockAcquired
+INFO: Lock acquired. Setting startlevel to 100

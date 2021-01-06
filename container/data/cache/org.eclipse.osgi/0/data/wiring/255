@@ -1,0 +1,2 @@
+osgi.wiring.package; (&(osgi.wiring.package=org.talend.esb.auxiliary.storage.common)(&(version>=7.3.0)(!(version>=8.0.0))))
+256; version=7.3.1
